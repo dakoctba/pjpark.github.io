@@ -2,6 +2,7 @@
 layout: post
 title:  "Aniversário da Day"
 date:   2019-10-11 10:00:00 -0300
+categories: blog
 tags: [ruby, rails, postgres, pt-br]
 ---
 

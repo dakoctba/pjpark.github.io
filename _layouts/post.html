@@ -10,8 +10,14 @@ layout: default
 
   <p>Publicado em {{ page.date | date: "%-d/%m/%Y" }}{% if page.author %} por {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 
+  <br>
+
   <div class="post-content">
     {{ content }}
   </div>
+
+  <br>
+
+  <p><a class="btn btn-outline-info" href="javascript:history.back()">❮ Voltar</a></p>
 
 </div>

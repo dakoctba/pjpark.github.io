@@ -3,6 +3,7 @@ layout: post
 title:  "Vantagens de estacionar sua empresa inativa"
 author: Jackson Teixeira
 date:   2019-08-15 10:20:18 -0500
+categories: blog
 tags: [ruby, rails, postgres, pt-br]
 ---
 
