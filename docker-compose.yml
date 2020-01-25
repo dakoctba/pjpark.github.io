@@ -1,0 +1,20 @@
+#
+# https://github.com/envygeeks/jekyll-docker/blob/master/README.md
+# https://matthiaslischka.at/2018/12/22/jekyll-docker-compose/
+#
+version: "3"
+
+services:
+  jekyll:
+    image: jekyll/jekyll:latest
+    command: jekyll serve --watch --incremental --force_polling --verbose
+    container_name: jekyll
+    ports:
+      - "4000:4000"
+    volumes:
+      - ".:/srv/jekyll"
+
+
+# docker run -p 4000:4000 --volume="$PWD:/srv/jekyll" -it jekyll/jekyll bash
+
+# bundle exec jekyll serve -H 0.0.0.0

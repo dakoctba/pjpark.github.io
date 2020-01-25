@@ -1,0 +1,6 @@
+<footer>
+  {%- if site.email -%}
+  <p><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+  {%- endif -%}
+  <p>{{- site.description | escape -}}</p>
+</footer>

@@ -1,0 +1,51 @@
+---
+layout: post
+---
+
+<h1>Blog...</h1>
+
+{% for post in paginator.posts %}
+  <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+
+  <article>
+   {{ post.content | split:'<!--break-->' | first }}
+   {% if post.content contains '<!--break-->' %}
+      <br>
+      <h4 class="text-center"><a href="{{ post.url }}" class="link-read-later">Clique aqui e continue lendo este texto</a></h4>
+   {% endif %}
+  </article>
+{% endfor %}
+
+<ul class="pager">
+
+  {% if paginator.previous_page %}
+    <li class="previous">
+      {% if paginator.previous_page == 1 %}
+        <a href="{{ site.BASE_PATH }}/">&larr; Clique aqui para ver posts mais novos</a>
+      {% else %}
+        <a href="{{ site.BASE_PATH }}/{{ site.paginate_path | replace: ':num', paginator.previous_page }}">&larr; Clique aqui para ver posts mais novos</a>
+      {% endif %}
+    </li>
+  {% else %}
+    <li class="previous disabled">
+      <a>&larr; Clique aqui para ver posts mais novos</a>
+    </li>
+  {% endif %}
+
+<!--
+  <li>
+    <span class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  </li>
+-->
+
+  {% if paginator.next_page %}
+    <li class="next">
+      <a href="{{ site.BASE_PATH }}/{{ site.paginate_path | replace: ':num', paginator.next_page }}">Clique aqui para ver posts mais antigos &rarr;</a>
+    </li>
+  {% else %}
+    <li class="next disabled">
+      <a>Clique aqui para ver posts mais antigos &rarr;</a>
+    </li>
+  {% endif %}
+
+</ul>

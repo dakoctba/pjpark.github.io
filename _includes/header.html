@@ -1,0 +1,24 @@
+<!-- ------------------------------ HEAD ------------------------------ -->
+{%- assign default_paths = site.pages | map: "path" -%}
+{%- assign page_paths = site.header_pages | default: default_paths -%}
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="/"><img src="/assets/images/pp.png" height="50px"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#sandwichContent"
+    aria-controls="sandwichContent" aria-expanded="false" aria-label="Alterna navegação">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="sandwichContent">
+    <ul class="navbar-nav mr-auto">
+      {%- for path in page_paths -%}
+        {%- assign item = site.pages | where: "path", path | first -%}
+        {%- if item.title -%}
+          <li class="nav-item">
+            <a class="nav-link {% if page.url == item.url %}active{% endif %}" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+          </li>
+        {%- endif -%}
+      {%- endfor -%}
+    </ul>
+  </div>
+</nav>
