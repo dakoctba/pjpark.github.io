@@ -118,10 +118,10 @@ footer {
   background-color: $azul-doido;
   color: $azul-fraco;
 
+  padding-top: 20px;
+
   h5 {
     font-size: 16px;
-    margin-top: 20px;
-
     color: $azul-fraco;
   }
 
@@ -142,6 +142,13 @@ footer {
       color: $darksnow;
       text-decoration: none;
     }
+  }
+
+  img.twitter {
+    background-color: $white;
+    border-radius: 20px;
+    padding: 9px;
+    height: 40px;
   }
 }
 
