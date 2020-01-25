@@ -14,9 +14,13 @@
   <div class="collapse navbar-collapse" id="sandwichContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-link {% if page.url == '/' %}active{% endif %}"><a class="nav-link" href="/">Home</a></li>
-      <li class="nav-link {% if page.url == '/contato/' %}active{% endif %}"><a class="nav-link" href="/contato">Sobre nós</a></li>
+      
+      <li class="nav-link {% if page.url == '/trocar-de-contador' %}active{% endif %}"><a class="nav-link" href="/trocar-de-contador">Trocar de contador</a></li>
+      <li class="nav-link {% if page.url == '/como-funciona' %}active{% endif %}"><a class="nav-link" href="/como-funciona">Como funciona?</a></li>
+      <li class="nav-link {% if page.url == '/quanto-custa' %}active{% endif %}"><a class="nav-link" href="/quanto-custa">Quanto custa?</a></li>
       <li class="nav-link {% if page.url contains '/blog/' %}active{% endif %}"><a class="nav-link" href="/blog">Blog</a></li>
-      <li class="nav-link"><a class="nav-link" href="{{ app_path }}" target="_blank">Aplicativo</a></li>
     </ul>
+
+    <a class="btn btn-outline-info" href="{{ app_path }}" target="_blank">Acesse o sistema</a>
   </div>
 </nav>
