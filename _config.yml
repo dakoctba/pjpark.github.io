@@ -27,9 +27,12 @@ paginate: 2
 paginate_path: "/blog/:num/"
 
 social:
-  twitter: pjpark
-  facebook: pjpark
-  github: pjpark
+  facebook: https://facebook.com/pjpark
+  github: https://github.com/pjpark
+  linkedin: https://www.linkedin.com/company/pjpark
+  twitter: https://twitter.com/pjpark
+  youtube: https://www.youtube.com/channel/pjpark
+  instagram: https://www.instagram.com/pjpark
 
 # Build settings
 markdown: kramdown
