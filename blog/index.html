@@ -1,19 +1,22 @@
 ---
-layout: post
+layout: page
+title: Blog
+permalink: /blog/
 ---
 
-<h1>Blog...</h1>
-
 {% for post in paginator.posts %}
-  <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-
   <article>
+    <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+
    {{ post.content | split:'<!--break-->' | first }}
    {% if post.content contains '<!--break-->' %}
       <br>
-      <h4 class="text-center"><a href="{{ post.url }}" class="link-read-later">Clique aqui e continue lendo este texto</a></h4>
-   {% endif %}
-  </article>
+      <p><a href="{{ post.url }}" class="link-read-later">Clique aqui e continue lendo este texto</a></p>
+      
+      {% endif %}
+    </article>
+    
+    <!-- <p class="text-center"><img src="/assets/images/post-separator.png"></p> -->
 {% endfor %}
 
 <ul class="pager">
