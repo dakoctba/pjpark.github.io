@@ -1,9 +1,59 @@
 <footer class="footer">
-  <p>
-    {{- site.description | escape -}}
+  <div class="container-fluid">
 
-    {%- if site.email -%}
-      &nbsp; - <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
-    {%- endif -%}
-  </p>
+    <div class="row">
+      <div class="col-md-8 offset-md-2">
+        <div class="row">
+          <div class="col">oioi</div>
+          <div class="col">
+            <div class="row">
+              <div class="col">
+                <h5>A EMPRESA</h5>
+
+                <ul class="list-unstyled">
+                  <li><a href="#">Sobre nós</a></li>
+                  <li><a href="#">Blog</a></li>
+                  <li><a href="#">Contato</a></li>
+                </ul>
+              </div>
+              <div class="col">
+                <h5>CONTABILIDADE</h5>
+              
+                <ul class="list-unstyled">
+                  <li><a href="#">Trocar de contador</a></li>
+                  <li><a href="#">Como funciona?</a></li>
+                  <li><a href="#">Quanto custa?</a></li>
+                  <li><a href="#">Cidades atendidas</a></li>
+                </ul>
+              </div>
+              <div class="col">
+                <h5>SEGURANÇA</h5>
+              
+                <ul class="list-unstyled">
+                  <li><a href="#">Registro no CRC</a></li>
+                  <li><a href="#">Política de privacidade</a></li>
+                  <li><a href="#">Termos de uso</a></li>
+                  <li><a href="#">Perguntas frequentes</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-8 offset-md-2">
+        <p>{{- site.description | escape -}}</p>
+        
+        <hr>
+
+        <p>
+          Rua Dr. Pedro Augusto Mena Barreto Monclaro, 454 - Água Verde, Curitiba - PR - CNPJ 08.889.601/0001-09<br>
+          Conselho Regional de Contabilidade: PR-010423/O-3<br>
+          Responsável Técnico: PR-054502/O-4
+        </p>
+      </div>
+    </div>
+  </div>
 </footer>

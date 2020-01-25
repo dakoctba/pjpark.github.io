@@ -4,6 +4,10 @@
 
 /* variables */
 $white: #ffffff;
+
+$snow: #f4f7fb;
+$darksnow: #d0ddea;
+
 $green: #2fe0c3;
 $darkgreen: #1dbfa5;
 $orange: #ff6600;
@@ -16,6 +20,7 @@ $blue: #6699cc;
 $red: #ff5151;
 $lightred: #ea5252;
 
+$azul-fraco: #7c92ab;
 $azul-doido: #34495E;
 
 html {
@@ -109,16 +114,32 @@ h2 {
   color: $green;
 }
 
-/* footer */
 footer {
-  margin: 10px 0px;
+  background-color: $azul-doido;
+  color: $azul-fraco;
 
-  padding: 5px;
-  font-size: 0.8em;
-  text-align: center;
+  h5 {
+    font-size: 16px;
+    margin-top: 20px;
+
+    color: $azul-fraco;
+  }
+
+  ul {
+    li {
+      margin-bottom: 10px;
+    }
+  }
+
+  hr {
+    border-top: 1px solid $azul-fraco;
+  }
 
   a {
+    color: $snow;
+
     &:hover {
+      color: $darksnow;
       text-decoration: none;
     }
   }

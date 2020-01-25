@@ -1,6 +1,3 @@
-{%- assign default_paths = site.pages | map: "path" -%}
-{%- assign page_paths = site.header_pages | default: default_paths -%}
-
 {% if jekyll.environment == "production" %}
   {%- assign app_path = "https://app.pjpark.com.br" -%}
 {% else %}
@@ -19,7 +16,6 @@
       <li class="nav-link {% if page.url == '/' %}active{% endif %}"><a class="nav-link" href="/">Home</a></li>
       <li class="nav-link {% if page.url == '/contato/' %}active{% endif %}"><a class="nav-link" href="/contato">Sobre nós</a></li>
       <li class="nav-link {% if page.url contains '/blog/' %}active{% endif %}"><a class="nav-link" href="/blog">Blog</a></li>
-
       <li class="nav-link"><a class="nav-link" href="{{ app_path }}" target="_blank">Aplicativo</a></li>
     </ul>
   </div>
