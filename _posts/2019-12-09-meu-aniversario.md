@@ -2,7 +2,6 @@
 layout: post
 title:  "Meu aniversário"
 date:   2019-12-09 10:00:00 -0300
-categories: jekyll update
 tags: [ruby, rails, postgres, pt-br]
 ---
 

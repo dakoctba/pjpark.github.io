@@ -2,7 +2,6 @@
 layout: post
 title:  "Aniversário do Cris"
 date:   2019-02-02 10:00:00 -0300
-categories: jekyll update
 tags: [ruby, rails, postgres, pt-br]
 ---
 
