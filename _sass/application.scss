@@ -163,26 +163,19 @@ footer {
   .content-to-screen { display: block; };
   .col-md-padr-0 { padding-right: 0px; }
 
-  body {
-    // background-color: #f4f4f4;
-  }
-
   .navbar {
     margin-bottom: 10px;
   }
 
   .content-box {
     background-color: $white;
-    padding: 20px;
-    // border: 1px solid #E7E7E7;
+    margin-top: 40px;
 
     section {
       margin-top: 100px;
     }
   }
 }
-
-
 
 .alert-default {
   background-color: $lightgray;
