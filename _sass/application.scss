@@ -59,13 +59,26 @@ h1 {
   .badge {
     background-color: $azul-doido;
   }
+
+  a {
+    color: $azul-doido;
+
+    &:hover {
+      color: $azul-fraco;
+      text-decoration: none;
+    }
+  }
 }
 
 h2 {
-  margin-bottom: 25px;
+  margin: 2rem 0px;
 
   font-size: 1.6em;
   color: $darkgray;
+}
+
+h3 {
+  margin: 2rem 0px;
 }
 
 /* navbar */
@@ -207,4 +220,18 @@ article {
   margin-bottom: 40px;
   border-radius: 4px;
   padding: 20px;
+}
+
+.img-fluid {
+  max-height: 600px;
+}
+
+.ad-conheca {
+  font-size: 2rem;
+  color: $azul-doido;
+
+  &:hover {
+    color: $azul-fraco;
+    text-decoration: none;
+  }
 }

@@ -1,25 +1,25 @@
 ---
 layout: post
-title:  "Como inativar a minha empresa"
+title:  "Como inativar a minha empresa?"
 author: "Jackson Teixeira"
 date:   2019-01-29 08:00:00 -0300
 categories: blog
 tags: [ruby, rails, postgres, pt-br]
 ---
 
-<p class="text-center">
-  <img src="/assets/images/posts/man-in-black-shirt-and-gray-denim-pants-sitting-on-gray-1134204.jpg" class="img-fluid img-banner">
-</p>
-
 Um dos momentos mais frustrantes para qualquer empreendedor é ter que **encerrar as atividades da sua empresa**. Após tanto trabalho e planejamento, não é fácil aceitar que todo investimento e tempo dedicado não deu o retorno esperado e o único caminho que resta é fechar as portas.
 
-Sem falar da burocracia... onde muitos se sentem desestimulados a formalizar a baixa. Chato, não?
+Sem falar da burocracia, onde muitos se sentem desestimulados a formalizar a baixa. Chato, não?
 
 ## E se você tivesse outra opção?
 
 Nem sempre oficializar o fim da empresa é a melhor solução.
 
 <!--break-->
+
+<div class="text-center my-5">
+  <img src="/assets/images/posts/man-in-black-shirt-and-gray-denim-pants-sitting-on-gray-1134204.jpg" class="img-fluid">
+</div>
 
 Antes de mais nada, é importante você entender os perigos de não oficializar o fim da empresa:
 
@@ -60,10 +60,14 @@ Essa reflexão é válida porque há a <a href="https://pjpark.com.br">possibili
 
 Não é mágico??
 
-<img src="/assets/images/posts/magic.gif">
-
-<a href="https://pjpark.com.br">Conheça a nossa solução de contabilidade para empresas inativas</a>
+<div class="text-center my-5">
+  <img src="/assets/images/posts/magic.gif">
+</div>
 
 De qualquer forma, adiantar-se ao problema e fugir das dívidas é fundamental.
 
 Fica a dica ;)
+
+<br><br>
+
+<a href="https://pjpark.com.br" class="ad-conheca">Conheça a nossa solução de **contabilidade para empresas inativas**</a>
