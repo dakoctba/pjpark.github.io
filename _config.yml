@@ -23,7 +23,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pjpark
 github_username:  pjpark
 
-paginate: 2
+paginate: 10
 paginate_path: "/blog/:num/"
 
 social:
