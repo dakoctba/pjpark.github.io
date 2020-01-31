@@ -7,9 +7,9 @@ categories: blog
 tags: [ruby, rails, postgres, pt-br]
 ---
 
-# Como inativar a minha empresa
-
-<img src="/assets/images/posts/man-in-black-shirt-and-gray-denim-pants-sitting-on-gray-1134204.jpg">
+<p class="text-center">
+  <img src="/assets/images/posts/man-in-black-shirt-and-gray-denim-pants-sitting-on-gray-1134204.jpg" class="img-fluid img-banner">
+</p>
 
 Um dos momentos mais frustrantes para qualquer empreendedor é ter que **encerrar as atividades da sua empresa**. Após tanto trabalho e planejamento, não é fácil aceitar que todo investimento e tempo dedicado não deu o retorno esperado e o único caminho que resta é fechar as portas.
 
