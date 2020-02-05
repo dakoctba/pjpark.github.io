@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Como inativar a minha empresa?"
+title:  "Devo inativar a minha empresa?"
 author: "Jackson Teixeira"
 date:   2019-01-29 08:00:00 -0300
 categories: blog
@@ -68,6 +68,6 @@ De qualquer forma, adiantar-se ao problema e fugir das dívidas é fundamental.
 
 Fica a dica ;)
 
-<br><br>
-
-<a href="https://pjpark.com.br" class="ad-conheca">Conheça a nossa solução de **contabilidade para empresas inativas**</a>
+<p class="text-center my-6">
+  <a href="https://pjpark.com.br" class="btn btn-lg btn-primary bordershadow">Conheça a nossa solução de contabilidade para empresas inativas</a>
+</p>

@@ -243,8 +243,6 @@ article {
   max-width: 30px;
 }
 
-
-
 .boxshadow {
   position: relative;
   -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
@@ -287,17 +285,28 @@ article {
 }
 
 .index-page {
-  h1 {
+  .m-60-40 {
     margin: 60px 0px 40px 0px;
   }
 
   h2 {
     font-size: 2em;
     margin: 40px 0px;
-
+  }
+  
+  h2, h3 {
     span {
       border-bottom: 4px solid $green;
     }
+  }
+
+  p {
+    margin: 2rem 0px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.75rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
   }
 
   hr {
@@ -308,4 +317,62 @@ article {
     margin: 80px 0px;
     padding: 0;
   }
+}
+
+.post-content {
+  p, ul, li {
+    font-size: 1.3rem;
+  }
+
+  ul {
+    margin: 30px 0px;
+  }
+}
+
+.my-6 {
+  margin: 80px 0px;
+}
+
+/* highlight */
+.green-highlight, .pink-highlight, .yellow-highlight {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  padding-left: 3px;
+}
+
+.green-highlight {
+  background: #99FFCC; /* Default color, all browsers */
+}
+
+.green-highlight::selection {
+  background: #99CCCC; /* Selection color, WebKit/Blink Browsers */
+}
+
+.green-highlight::-moz-selection {
+  background: #99CCCC; /* Selection color, Gecko Browsers */
+}
+
+.pink-highlight {
+  background: #FFCCFF; /* Default color, all browsers */
+}
+
+.pink-highlight::selection {
+  background: #FF99FF; /* Selection color, WebKit/Blink Browsers */
+}
+
+.pink-highlight::-moz-selection {
+  background: #FF99FF; /* Selection color, Gecko Browsers */
+}
+
+.yellow-highlight {
+  background: #FFFFCC; /* Default color, all browsers */
+}
+
+.yellow-highlight::selection {
+  background: #FFFF66; /* Selection color, WebKit/Blink Browsers */
+}
+
+.yellow-highlight::-moz-selection {
+  background: #FFFF66; /* Selection color, Gecko Browsers */
 }
