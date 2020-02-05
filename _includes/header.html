@@ -5,22 +5,24 @@
 {% endif %}
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="/"><img src="/assets/images/pp.png" height="50px"></a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#sandwichContent"
-    aria-controls="sandwichContent" aria-expanded="false" aria-label="Alterna navegação">
-    <span class="navbar-toggler-icon"></span>
-  </button>
+  <div class="container">
+    <a class="navbar-brand" href="/"><img src="/assets/images/pp.png" height="50px"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#sandwichContent"
+      aria-controls="sandwichContent" aria-expanded="false" aria-label="Alterna navegação">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-  <div class="collapse navbar-collapse" id="sandwichContent">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-link {% if page.url == '/' %}active{% endif %}"><a class="nav-link" href="/">Home</a></li>
-      
-      <li class="nav-link {% if page.url == '/trocar-de-contador' %}active{% endif %}"><a class="nav-link" href="/trocar-de-contador">Trocar de contador</a></li>
-      <li class="nav-link {% if page.url == '/como-funciona' %}active{% endif %}"><a class="nav-link" href="/como-funciona">Como funciona?</a></li>
-      <li class="nav-link {% if page.url == '/quanto-custa' %}active{% endif %}"><a class="nav-link" href="/quanto-custa">Quanto custa?</a></li>
-      <li class="nav-link {% if page.url contains '/blog/' %}active{% endif %}"><a class="nav-link" href="/blog">Blog</a></li>
-    </ul>
+    <div class="collapse navbar-collapse" id="sandwichContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-link {% if page.url == '/' %}active{% endif %}"><a class="nav-link" href="/">Home</a></li>
+        
+        <li class="nav-link {% if page.url == '/trocar-de-contador' %}active{% endif %}"><a class="nav-link" href="/trocar-de-contador">Trocar de contador</a></li>
+        <li class="nav-link {% if page.url == '/como-funciona' %}active{% endif %}"><a class="nav-link" href="/como-funciona">Como funciona?</a></li>
+        <li class="nav-link {% if page.url == '/quanto-custa' %}active{% endif %}"><a class="nav-link" href="/quanto-custa">Quanto custa?</a></li>
+        <li class="nav-link {% if page.url contains '/blog/' %}active{% endif %}"><a class="nav-link" href="/blog">Blog</a></li>
+      </ul>
 
-    <a class="btn btn-outline-info" href="{{ app_path }}" target="_blank">Acesse o sistema</a>
-  </div>
+      <a class="btn btn-outline-info" href="{{ app_path }}" target="_blank">Acesse o sistema</a>
+    </div>
+</div>
 </nav>
