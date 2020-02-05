@@ -4,3 +4,4 @@ title: Perguntas frequentes
 permalink: /faq/
 ---
 
+# Perguntas frequentes
