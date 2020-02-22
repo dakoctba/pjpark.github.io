@@ -1,6 +1,6 @@
 # Blog do projeto PJPark
 
-Para criar um novo post basta criar um arquivo no diretório ```_posts``` com o padrão ```yyyy-mm-dd-title-with-hyphens.md```
+Para criar um novo post basta salvar um arquivo no diretório ```_posts``` com o padrão ```yyyy-mm-dd-title-with-hyphens.md```
 
 No início do arquivo colocar o cabeçalho
 
