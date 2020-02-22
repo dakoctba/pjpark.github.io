@@ -4,7 +4,7 @@ title:  "Devo inativar a minha empresa?"
 author: "Jackson Teixeira"
 date:   2019-01-29 08:00:00 -0300
 categories: blog
-tags: [ruby, rails, postgres, pt-br]
+tags: [contabilidade, empresa-inativa, pt-br]
 ---
 
 Um dos momentos mais frustrantes para qualquer empreendedor é ter que **encerrar as atividades da sua empresa**. Após tanto trabalho e planejamento, não é fácil aceitar que todo investimento e tempo dedicado não deu o retorno esperado e o único caminho que resta é fechar as portas.
