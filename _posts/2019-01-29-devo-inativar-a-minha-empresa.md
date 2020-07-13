@@ -23,10 +23,10 @@ Nem sempre oficializar o fim da empresa é a melhor solução.
 
 Antes de mais nada, é importante você entender os perigos de não oficializar o fim da empresa:
 
-- As declarações acessórias – entrega de declarações de inatividade aos órgãos oficiais (ex: Imposto de Renda Pessoa Jurídica (IRPJ) e balanços contábeis) – **são obrigatórias** e, quando deixam de ser entregues, **tornam a empresa inadimplente perante a Receita Federal**;
-- De acordo com a legislação tributária, **a multa pelas declarações não-entregues pode variar de R$ 200,00 a R$ 600,00 por ano**;
-- A não efetivação da baixa do CNPJ pode acarretar outros problemas, como dificuldade no financiamento bancário;
-- O Ministério do Trabalho pode pressupor que é gerada uma renda por meio desse cadastro ativo e pode **recusar o seu pedido do seguro-desemprego**;
+- As declarações acessórias – entrega de declarações de inatividade aos órgãos oficiais (ex: Imposto de Renda Pessoa Jurídica (IRPJ/DEFIS/DASN), GFIP, PGDAS, DCTF, SPEDs e balanços contábeis) – **são obrigatórias** e, quando deixam de ser entregues, **tornam a empresa inadimplente perante a Receita Federal**;
+- De acordo com a legislação tributária, **a multa pelas declarações não-entregues pode variar de R$ 50,00 a R$ 6.000,00 por declaração**;
+- A não efetivação da baixa do CNPJ pode acarretar outros problemas, como dificuldade em financiamentos e baixo score;
+- O Ministério do Trabalho pressupõe que é gerada uma renda por meio desse cadastro ativo e **recusa o seu pedido do seguro-desemprego**;
 
 Mas espere!!!
 
@@ -37,10 +37,10 @@ Veja só a lista de coisas que você precisa se preocupar:
 - Distrato Social;
 - Débitos previdenciários;
 - FGTS;
-- Baixa na prefeitura e no estado;
 - Tributos federais;
-- Junta comercial;
-- Baixa no CNPJ;
+- Junta comercial ou cartório;
+- Baixa do CNPJ;
+- Baixa na prefeitura e no estado;
 - Resolução de pendências;
 
 Além do que, um processo de baixa custa em média **R$ 2.000,00**. Isso mesmo!!! Mais caro que para abrir uma empresa (média de R$ 800,00)
