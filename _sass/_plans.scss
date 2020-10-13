@@ -1,0 +1,40 @@
+.pricing-box {
+  border-radius: 20px 0px;
+  padding: 80px 0px;
+  text-align: center;
+
+  h1 {
+    font-size: 2rem;
+    padding: 10px;
+    letter-spacing: 0.5rem;
+  }
+
+  .pricing-box-body {
+    padding: 10px;
+
+    .price {
+      font-size: 4rem;
+      
+      sup, sub {
+        font-size: 1.5rem;
+      }
+    }
+  }
+
+  &.pricing-box-left {
+    border: 1px solid purple;
+    background-color: #fff;
+    margin-top: 40px;
+  }
+
+  &.pricing-box-center {
+    border: 3px solid tomato;
+    background-color: #fff;
+  }
+
+  &.pricing-box-right {
+    border: 1px solid gray;
+    background-color: #fff;
+    margin-top: 40px;
+  }
+}
