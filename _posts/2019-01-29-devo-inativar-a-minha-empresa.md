@@ -11,7 +11,7 @@ Um dos momentos mais frustrantes para qualquer empreendedor é ter que **encerra
 
 Sem falar da burocracia, onde muitos se sentem desestimulados a formalizar a baixa. Chato, não?
 
-## E se você tivesse outra opção?
+**E se você tivesse outra opção?**
 
 Nem sempre oficializar o fim da empresa é a melhor solução.
 
@@ -47,8 +47,7 @@ Além do que, um processo de baixa custa em média **R$ 2.000,00**. Isso mesmo!!
 
 É importante lembrar que o processo de fechar uma empresa é definitivo, ou seja, não pode ser revertido. Desta forma, será necessário abrir um novo CNPJ para voltar à ativa.
 
-
-## Você pode querer reabrir, afinal, você é brasileiro e não desiste nunca!!
+**Você pode querer reabrir, afinal, você é brasileiro e não desiste nunca!!**
 
 Pense bem.. ninguém abre um negócio pensando em fechá-lo um dia. Todo empreendedor sonha em ter sucesso, crescer e desenvolver sua empresa. No entanto, nem sempre as coisas saem como o planejado.
 

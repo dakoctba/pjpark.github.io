@@ -3,13 +3,13 @@ layout: page
 title: Blog
 ---
 
-<div class="post-content">
+<div class="post">
 
   {% for post in paginator.posts %}
   <article>
     <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
 
-    {{ post.content | split:'<!--break-->' | first }}
+    {{ post.content | split:'<!--break-->' | first | markdownify }}
 
     {% if post.content contains '<!--break-->' %}
       <br><p><a href="{{ post.url }}" class="link-read-later">Clique aqui e continue lendo este texto</a></p>

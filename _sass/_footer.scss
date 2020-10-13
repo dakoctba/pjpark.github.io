@@ -1,0 +1,32 @@
+footer {
+  background-color: $color-primary;
+  padding: 3rem 0 1rem 0;
+  color: $color-accent;
+
+  h2, p, li {
+    font-size: 1rem;
+    margin: 0 0 10px 0;
+    padding: 0;
+  }
+
+  hr {
+    margin-top: 2rem;
+    border-top: 1px solid $color-accent;
+  }
+
+  a {
+    color: $color-initial;
+
+    &:hover {
+      color: $color-quaternary;
+      text-decoration: none;
+    }
+  }
+
+  img.twitter, img.github {
+    background-color: $color-initial;
+    border-radius: 20px;
+    padding: 9px;
+    height: 40px;
+  }
+}

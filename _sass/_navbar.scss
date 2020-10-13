@@ -1,0 +1,17 @@
+.navbar {
+  font-size: 1rem;
+  background-color: $color-initial;
+
+  p, li {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    font-size: 1rem;
+  }
+
+  .btn {
+    margin: 0;
+  }
+}

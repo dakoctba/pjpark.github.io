@@ -1,0 +1,383 @@
+$white: #ffffff;
+$snow: #f4f7fb;
+$darksnow: #d0ddea;
+$green: #2fe0c3;
+$darkgreen: #1dbfa5;
+$orange: #ff6600;
+$gray: #cecece;
+$lightgray: #f8f8f8;
+$darkgray: #333333;
+$lightpurple: #8F40FF;
+$purple: #B000FF;
+$blue: #6699cc;
+$red: #ff5151;
+$lightred: #ea5252;
+$azul-fraco: #7c92ab;
+$azul-doido: #34495E;
+
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1;
+}
+
+/* general */
+body {
+  background-color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+
+  margin: 0;
+  padding: 0;
+}
+
+.index-page {
+  .area {
+    margin: 5rem 0 20rem 0;
+  }
+
+  .img-fluid {
+    height: 50%;
+  }
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+  margin-bottom: 25px;
+
+  font-size: 3em;
+  color: $azul-doido;
+
+  font-family: 'Raleway';
+  font-weight: 400;
+
+  .badge {
+    background-color: $azul-doido;
+  }
+
+  a {
+    color: $azul-doido;
+
+    &:hover {
+      color: $azul-fraco;
+      text-decoration: none;
+    }
+  }
+}
+
+h2 {
+  margin: 2rem 0px;
+
+  font-size: 1.6em;
+  color: $darkgray;
+}
+
+h3 {
+  margin: 2rem 0px;
+}
+
+/* navbar */
+.navbar {
+  border-top: 4px solid $azul-doido;
+  border-bottom: 1px solid $gray;
+
+  box-shadow: 0px 2px 10px #dddddd;
+  margin-bottom: 20px;
+
+  /*padding: 10px;*/
+
+  .navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.7em;
+
+    .logo-net {
+      color: $green;
+    }
+
+    .logo-net-admin {
+      color: $lightred;
+    }
+  }
+
+}
+
+.navbar-admin {
+  border-top: 4px solid $lightred;
+}
+
+.colabore {
+  margin-top: 20px;
+}
+
+.alert-colabore {
+  margin: 20px 0px;
+
+  &:hover {
+    border: 2px dashed red;
+    background-color: rgba(255, 0, 0, 0.21);
+  }
+}
+
+.icon-green {
+  color: $green;
+}
+
+footer {
+  background-color: $color-primary;
+  color: $azul-doido;
+
+  .container-fluid {
+    margin-top: 5rem;
+  }
+
+  h5 {
+    font-size: 16px;
+    color: $azul-doido;
+  }
+
+  ul {
+    li {
+      margin-bottom: 10px;
+    }
+  }
+
+  hr {
+    margin-top: 2rem;
+    border-top: 1px solid $azul-doido;
+  }
+
+  a {
+    color: $color-initial;
+
+    &:hover {
+      color: $color-quaternary;
+      text-decoration: none;
+    }
+  }
+
+  img.twitter, img.github {
+    background-color: $white;
+    border-radius: 20px;
+    padding: 9px;
+    height: 40px;
+  }
+}
+
+/* media query */
+/*.col-md-padr-0 { padding-right: 10px; }*/
+.content-to-mobile { display: block; };
+.content-to-screen { display: none; };
+
+/* tablets, notebooks, etc */
+@media (min-width : 768px) {
+  .content-to-mobile { display: none; };
+  .content-to-screen { display: block; };
+  .col-md-padr-0 { padding-right: 0px; }
+
+  .navbar {
+    margin-bottom: 10px;
+  }
+
+  .content-box {
+    background-color: $white;
+    // margin-top: 40px;
+
+    section {
+      margin-top: 100px;
+    }
+  }
+}
+
+.alert-default {
+  background-color: $lightgray;
+}
+
+.nav-tabs {
+  margin-bottom: 20px;
+}
+
+.badge-success {
+  background-color: $green;
+}
+
+.badge-lg {
+  padding: 7px 14px;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+  background-color: #85b200;
+  margin-bottom: 20px;
+}
+
+.has-success .form-control {
+  background-color: rgba(60, 118, 61, 0.2);
+}
+
+article {
+  box-shadow: 0px 2px 10px #dddddd;
+  margin-bottom: 40px;
+  border-radius: 4px;
+  padding: 20px;
+}
+
+.img-fluid {
+  max-height: 600px;
+}
+
+.ad-conheca {
+  font-size: 2rem;
+  color: $azul-doido;
+
+  &:hover {
+    color: $azul-fraco;
+    text-decoration: none;
+  }
+}
+
+//.icon {
+//  max-width: 30px;
+//}
+
+.boxshadow {
+  position: relative;
+  -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
+  -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+  padding: 10px;
+  background: white;
+
+  &::after {
+    content: '';
+    position: absolute;
+    z-index: -1; /* hide shadow behind image */
+    -webkit-box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);        
+    width: 70%; 
+    left: 15%; /* one half of the remaining 30% */
+    height: 100px;
+    bottom: 0;
+  }
+}
+
+.bordershadow {
+  width: 80%;
+  line-height: 70px;
+  text-align: center;
+  border-radius: 3px;
+  border: none;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2);
+  transition: all 200ms ease-out;
+  background-color: $white;
+  color: $azul-doido;
+  
+  &:hover {
+    background-color: $white;
+    color: $azul-doido;
+    font-weight: bold;
+    box-shadow: 0 0 6px rgba(35, 173, 255, 1);
+  }
+}
+
+.index-page {
+  // .m-60-40 {
+  //   margin: 60px 0px 40px 0px;
+  // }
+
+  h2 {
+    font-size: 2em;
+    margin: 40px 0px;
+  }
+  
+  h2, h3 {
+    span {
+      border-bottom: 4px solid $green;
+    }
+  }
+
+  p {
+    margin: 2rem 0px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.75rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+  }
+
+  hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid $darksnow;
+    margin: 80px 0px;
+    padding: 0;
+  }
+}
+
+.post-content {
+  p, ul, li {
+    font-size: 1.3rem;
+  }
+
+  ul {
+    margin: 30px 0px;
+  }
+}
+
+.my-6 {
+  margin: 80px 0px;
+}
+
+/* highlight */
+.green-highlight, .pink-highlight, .yellow-highlight {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  padding-left: 3px;
+}
+
+.green-highlight {
+  background: #99FFCC; /* Default color, all browsers */
+}
+
+.green-highlight::selection {
+  background: #99CCCC; /* Selection color, WebKit/Blink Browsers */
+}
+
+.green-highlight::-moz-selection {
+  background: #99CCCC; /* Selection color, Gecko Browsers */
+}
+
+.pink-highlight {
+  background: #FFCCFF; /* Default color, all browsers */
+}
+
+.pink-highlight::selection {
+  background: #FF99FF; /* Selection color, WebKit/Blink Browsers */
+}
+
+.pink-highlight::-moz-selection {
+  background: #FF99FF; /* Selection color, Gecko Browsers */
+}
+
+.yellow-highlight {
+  background: #FFFFCC; /* Default color, all browsers */
+}
+
+.yellow-highlight::selection {
+  background: #FFFF66; /* Selection color, WebKit/Blink Browsers */
+}
+
+.yellow-highlight::-moz-selection {
+  background: #FFFF66; /* Selection color, Gecko Browsers */
+}
