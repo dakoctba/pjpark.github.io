@@ -2,6 +2,7 @@
 layout: post
 title: Política de privacidade
 permalink: /politica-de-privacidade/
+date: 2020-09-30 08:00:00 -0300
 ---
 
 A PJ PARK tem como prioridade a manutenção de uma relação de confiança e no intuito de tornar claras as questões de privacidade da relação quanto aos dados coletados e armazenados, este termo ("Política de privacidade") tem a intenção de esclarecer sobre quais informações coletamos e como as utilizamos, e este deve ser aceito, observado e cumprido por todos os clientes e usuários da plataforma PJ PARK. Por sua vez, desde já, a PJ PARK se obriga, nos termos da legislação em vigor e do presente termo, a garantir a privacidade dos usuários deste site. 
@@ -77,5 +78,3 @@ Caso o usuário tenha qualquer dúvida quanto à presente política de privacida
 4.7. DADOS FINANCEIROS – qualquer informação passível de identificação no momento da importação de nota fiscal e/ou no extrato bancário, bem como informações sobre o pagamento, o que inclui informações de conta, dados de faturamento, número de cartão de credito ou débito, informações referentes à dívidas ou investimentos, etc.
 
 4.8. DADOS DE ACESSO – informações coletadas de Usuários no momento da navegação referentes ao domínio do seu provedor de acesso à internet, o endereço de protocolo IP, o sistema operacional, data e cidade de acesso, etc. 
-
-<small>Data da última revisão: 30 de setembro de 2020.</small>
