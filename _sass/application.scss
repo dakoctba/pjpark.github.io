@@ -18,7 +18,8 @@ body {
 }
 
 .area {
-  padding: 5rem 0;
+  margin: 0px;
+  padding: 0px 10px;
 }
 
 h1, h2, h3, h4 {
@@ -31,8 +32,8 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  margin: 2rem 0 5rem 0;
-  font-size: 3rem;
+  margin: 2rem 0 2rem 0;
+  font-size: 2rem;
   color: $color-accent;
 
   a {
@@ -46,17 +47,53 @@ h1 {
 }
 
 h2 {
-  margin-bottom: 10rem;
+  margin-bottom: 5rem;
 }
 
 p, li {
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 
 .area-info {
-  padding: 5rem 0;
+  padding: 0;
 }
 
 .img-fluid {
-  width: 70%;
+  width: 100%;
+  margin: 2rem 0;
+}
+
+.social-networks {
+  margin-bottom: 4rem;
+}
+
+@media (min-width : 768px) {
+  .area {
+    padding: 5rem 0;
+  }
+
+  .area-info {
+    padding: 5rem 0;
+  }
+
+  h1 {
+    margin: 2rem 0 5rem 0;
+    font-size: 3rem;
+  }
+
+  h2 {
+    margin-bottom: 10rem;
+  }
+
+  p, li {
+    font-size: 1.5rem;
+  }
+
+  .img-fluid {
+    width: 70%;
+  }
+
+  .social-networks {
+    margin-bottom: 0;
+  }
 }

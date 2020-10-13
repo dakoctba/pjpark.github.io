@@ -67,6 +67,6 @@ De qualquer forma, adiantar-se ao problema e fugir das dívidas é fundamental.
 
 Fica a dica ;)
 
-<p class="text-center my-6">
-  <a href="https://pjpark.com.br" class="btn btn-lg btn-primary bordershadow">Conheça a nossa solução de contabilidade para empresas inativas</a>
+<p class="d-none d-sm-block text-center my-6">
+  <a href="https://pjpark.com.br" class="btn btn-lg btn-primary bordershadow">Conheça nossas soluções para empresas inativas</a>
 </p>
