@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Política de privacidade
 permalink: /politica-de-privacidade/
 ---
