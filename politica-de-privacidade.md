@@ -4,13 +4,9 @@ title: Política de privacidade
 permalink: /politica-de-privacidade/
 ---
 
-# POLÍTICA DE PRIVACIDADE
-
-
-
 A PJ PARK tem como prioridade a manutenção de uma relação de confiança e no intuito de tornar claras as questões de privacidade da relação quanto aos dados coletados e armazenados, este termo (“Política de privacidade”) tem a intenção de esclarecer sobre quais informações coletamos e como as utilizamos, e este deve ser aceito, observado e cumprido por todos os clientes e usuários da plataforma PJ PARK. Por sua vez, desde já, a PJ PARK se obriga, nos termos da legislação em vigor e do presente termo, a garantir a privacidade dos usuários deste site. 
 
-1. QUAIS INFORMAÇÕES QUE COLETAMOS? 
+## 1. QUAIS INFORMAÇÕES QUE COLETAMOS? 
 
 A PJ PARK pode recolher, gravar e utilizar em conexão com outros sites e parceiros as informações pessoais dos usuários, incluindo, mas não se limitando ao nome da empresa, nome do responsável pelo acesso, CNPJ da empresa usuária, endereço, número de telefone, interesses, atividades, tempo de abertura da empresa, etc. 
 A PJ PARK se resguarda o direito de gravar seu IP, tipo de navegador, aparelho e operadora de celular, posição geográfica e outros dados relativos aos usuários. 
@@ -21,7 +17,7 @@ Quando o usuário realiza possíveis pagamentos na plataforma, a PJ PARK coletar
 Nenhuma consequência poderá ocorrer da recusa em preencher tais informações, exceto que o usuário não poderá obter o benefício de utilização dos serviços. 
 As informações coletadas automaticamente não são informações pessoais, mas sim sobre os computadores, smartphones ou outros dispositivos que o usuário utiliza para acessar a plataforma, bem como o nome de domínio do seu provedor de acesso à internet, o endereço de protocolo IP utilizado para se conectar à Plataforma, o tipo e versão do browser do usuário, o sistema operacional, o tempo médio gasto na Plataforma, as páginas visitadas na Plataforma, as informações procuradas, os horários de acesso e outras estatísticas relevantes para o fornecimento de serviço. 
 
-2. O QUE FAZEMOS COM AS INFORMAÇÕES COLETADAS? 
+## 2. O QUE FAZEMOS COM AS INFORMAÇÕES COLETADAS? 
 
 A PJ PARK não divulga publicamente nem a terceiros suas informações de modo que possam identificá-lo. A PJ PARK busca sempre manter a sua privacidade enquanto estiver utilizando o serviço, MAS PODERÁ UTILIZAR AS INFORMAÇÕES FORNECIDAS OU AQUELAS OBTIDAS AUTOMATICAMENTE DE FORMA AGREGADA NO INTUITO DE REALIZAR ANÁLISES, ESTUDOS, MELHORIAS DO SISTEMA OU POR FORÇA DE ORDEM JUDICIAL. 
 A PJ PARK GOSTA DE CRIAR NOVAS EXPERIÊNCIAS PARA ATENDER POSSÍVEIS DEMANDAS NASCENTES. POR ISSO, USAMOS TODAS AS INFORMAÇÕES QUE TEMOS PARA APOIAR NOSSOS SERVIÇOS, MELHORÁ-LO OU ATENDER NOVAS DEMANDAS A PARTIR DAS INFORMAÇÕES OBTIDAS. 
@@ -36,7 +32,7 @@ AO PREENCHER O FORMULÁRIO E FORNECER AS INFORMAÇÕES À PJ PARK, O USUÁRIO DE
 Na plataforma pode conter links a outros web sites. E a presente declaração de privacidade não abrange os referidos sites, não podendo a PJ PARK ser responsabilizada pelas práticas de privacidade de outros sites. 
 A PJ PARK reserva-se o direito de alterar a presente política a qualquer tempo, informando o usuário no prazo de 30 (trinta) dias antes do início de sua vigência para que o usuário tome ciência e expresse nova concordância. CASO O USUÁRIO NÃO CONCORDE COM A NOVA POLÍTICA, DEVE INFORMAR TÃO LOGO TOME CIÊNCIA DA ALTERAÇÃO, DE MODO A VIABILIZAR UMA REGULAR RESCISÃO CONTRATUAL ENTRE A EMPRESA E O USUÁRIO, OBSERVADOS SEMPRE O CONTRATO DE PRESTAÇÃO DE SERVIÇOS E A POLÍTICA DE ARMAZENAMENTO DE INFORMAÇÕES VIGENTES NO PRESENTE MOMENTO. 
 
-3. DO ARMAZENAMENTO E EXCLUSÃO DAS INFORMAÇÕES E DADOS PESSOAIS 
+## 3. DO ARMAZENAMENTO E EXCLUSÃO DAS INFORMAÇÕES E DADOS PESSOAIS 
 
 O usuário poderá ter acesso às suas informações pessoais que inclui no momento do cadastro e às informações que incluiu na plataforma através do acesso à plataforma. 
 A PJ PARK armazenará todos os dados e informações pelo tempo que entender necessário e até a exclusão de sua conta e rescisão de contrato de prestação de serviços. 
@@ -44,7 +40,9 @@ O usuário poderá realizar a exclusão de sua conta a qualquer momento, bastand
 Quando o usuário exclui sua conta e rescinde o contrato, os dados pessoais serão excluídos, porém são mantidas as informações de guarda obrigatória, conforme determinação legal. 
 Caso o usuário tenha qualquer dúvida quanto à presente política de privacidade, poderá entrar em contato com a PJ PARK através da plataforma ou atendimento online junto ao site https://pjpark.com.br. 
 
-4. DEFINIÇÕES 4.1. PJ PARK – Quando mencionamos “PJ PARK” no presente termos, o usuário deve ter ciência que referimo-nos à empresa PJ PARK LTDA. (CNPJ 36.489.120/0001-41), a qual é empresa desenvolvera da Plataforma PJ PARK e detentora de todo e qualquer direito relacionado a ela. 
+## 4. DEFINIÇÕES
+
+4.1. PJ PARK – Quando mencionamos “PJ PARK” no presente termos, o usuário deve ter ciência que referimo-nos à empresa PJ PARK LTDA. (CNPJ 36.489.120/0001-41), a qual é empresa desenvolvera da Plataforma PJ PARK e detentora de todo e qualquer direito relacionado a ela. 
 4.2. USUÁRIO – Pessoa física ou jurídica que aderiu aos termos e aceitou as condições da presente TERMO DE USO para utilização do sistema PJ PARK e Pessoa física ou jurídica que contratou os serviços da empresa PJ PARK LTDA nos termos do CONTRATO DE PRESTAÇÃO DE SERVIÇOS E DE LICENÇA DE SOFTWARE. 
 4.3. PLATAFORMA - – local virtual onde o usuário insere todas as informações que possibilitam o acesso ao sistema e, consequentemente, a utilização dos serviços contábeis ou baixa de empresa; 
 4.4. SITE: https://pjpark.com.br; 
@@ -52,6 +50,5 @@ Caso o usuário tenha qualquer dúvida quanto à presente política de privacida
 4.6. DADOS DE CONTA – quaisquer dados que o Usuário insira na Plataforma/site ao se cadastrar no site, como, por exemplo, dados de conta bancária, número de agência e conta bancária, bem como quaisquer outros dados bancários, inclusive cartões de crédito dos Usuários. 
 4.7. DADOS FINANCEIROS – qualquer informação passível de identificação no momento da importação de nota fiscal e/ou no extrato bancário, bem como informações sobre o pagamento, o que inclui informações de conta, dados de faturamento, número de cartão de credito ou débito, informações referentes à dívidas ou investimentos, etc. 
 4.8. DADOS DE ACESSO – informações coletadas de Usuários no momento da navegação referentes ao domínio do seu provedor de acesso à internet, o endereço de protocolo IP, o sistema operacional, data e cidade de acesso, etc. 
-
 
 Data da última revisão: 30 de setembro de 2020.
