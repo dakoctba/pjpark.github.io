@@ -13,14 +13,14 @@ Portanto, além do presente informativo, é altamente recomendada a leitura do c
 O ACEITE E A CONSEQUENTE ADESÃO AO CONTRATO APÓS CADASTRO JUNTO À PLATAFORMA IMPLICAM NO ENTENDIMENTO E NA ACEITAÇÃO TOTAL DAS CONDIÇÕES, REGRAS E NORMAS DESCRITAS EM CONTRATO.
 A versão eletrônica do contrato, em formato PDF, estará disponível para download no Site após o aceite, cadastro dos dados e ativação do cadastro do Usuário, a qual se dá através de pagamento dos serviços ou conclusão da fase de baixa da empresa, a depender de cada caso.
 
-1. CADASTRO
+## 1. CADASTRO
 O Usuário que concordar com o presente termo e desejar contratar os serviços fornecidos pela PJ PARK deverá preencher os campos necessários ao cadastro com informações válidas e verdadeiras, sendo que a confirmação do cadastro dar-se-á por e-mail e aceitar as condições do contrato de prestação de serviços contábeis e licença de software. Após a confirmação e pagamento do valor solicitado para início da prestação de serviços, o acesso à Plataforma será liberado e será iniciada a prestação do serviço
 contratado. No caso de não confirmação por e-mail do cadastro ou do pagamento, o acesso à plataforma não será autorizado e a prestação dos serviços não será iniciada.
 Você poderá gerenciar seu cadastro e senha a qualquer momento através da Plataforma PJ PARK.
 Ao seguir com o pagamento e solicitação dos serviços, a PJ PARK entende que o Usuário realizou a leitura do contrato e está ciente de sua responsabilidade acerca das informações inseridas na plataforma, comprometendo-se, portanto, a incluir apenas informações verdadeiras junto à Plataforma.
 DESSA FORMA, O USUÁRIO ASSUME TODAS AS RESPONSABILIDADES PELAS DECLARAÇÕES REALIZADAS JUNTO À PLATAFORMA e a PJ PARK não se responsabiliza pelo acesso das informações do Usuário por outras pessoas que não este.
 CASO A PJ PARK IDENTIFIQUE QUALQUER FALSIDADE NAS REFERIDAS INFORMAÇÕES, RESERVA-SE O DIREITO DE EXCLUIR O ACESSO DO USUÁRIO, SEM PREJUÍZO DAS MEDIDAS LEGAIS DECORRENTES DAS INFORMAÇÕES FALSAS INSERIDAS.
-2. OBJETO
+## 2. OBJETO
 O presente termo esclarece as regras constantes no contrato de prestação de serviços e licença de software entre Usuário e PJ PARK para fins de utilização da Plataforma PJ PARK, a qual possibilita a elaboração das informações administrativas geradas ou quaisquer outros serviços prestados pela PJ PARK .
 Os serviços ofertados pela PJ PARK são os seguintes (“ Serviços ”), nos termos do contrato:
 a) Serviço de baixa de empresas (se contratado) e/ou;
@@ -37,7 +37,7 @@ Os serviços mensais de assessoria administrativa e fiscal, entrega de declaraç
 Os serviços descritos em contratos referentes às obrigações mensais costumam estar inclusos no pacote de serviços adquirido pelo Usuário, sendo que cada serviço não incluso em contrato e solicitado pelo Usuário poderá ser adquirido em separado e a PJ PARK reserva-se o direito realizar nova contratação para cada solicitação.
 O prazo de duração do contrato de serviços mensais é de 12 (doze) meses e este prazo
 começa a ser contado da data do início da responsabilidade que o Usuário indicar na plataforma e pode ser renovado ou rescindido, nos termos previstos em contrato.
-3. PAGAMENTO
+## 3. PAGAMENTO
 O Usuário pagará pelos serviços mensais de assessoria administrativa e fiscal da PJ PARK os valores definidos no momento da contratação, através de plano escolhido junto à Plataforma PJ PARK.
 O valor de cada plano sofrerá variação a depender de alguns critérios, tais como: (i) forma de pagamento mensal, semestral ou anual; (ii) o fato de ser empresa prestadora
 de serviços e/ou ter atividades de comércio; (iii) regime tributário; (iv) quantidade de sócios; (v) quantidade de funcionários; (vi) faturamento, (v) cidade sede da CONTRATANTE, dentre outros.
@@ -52,7 +52,7 @@ Caso qualquer pagamento aqui previsto não se conclua após a cobrança feita at
 dos dados de pagamento cadastrados, o Usuário está ciente que a PJ PARK poderá limitar o acesso à Plataforma PJ PARK e, consequentemente, a prestação de serviços, reservando-se o direito de cobrar pelos valores devidos devidamente corrigidos em contrato, utilizando todo e qualquer meio extrajudicial ou judicial a fim de receber o valor devido pelo Usuário, inclusive realizar o cadastro deste junto aos órgãos de proteção ao crédito.
 O Usuário deve realizar o pagamento antes da utilização do serviço. Caso a PJ PARK não consiga realizar a cobrança usando seu método de pagamento por qualquer motivo (por exemplo, expiração de cartão ou capital insuficiente), o Usuário permanecerá responsável por quaisquer quantias não coletadas e a PJ PARK tentará realizar a cobrança assim que forem atualizadas as informações do seu método de pagamento e autorizar tal cobrança.
 A PJ PARK poderá recusar um pedido de reembolso caso encontre uma prova de fraude, abuso de reembolso, ou outro comportamento manipulativo que dê direito a uma reconvenção.
-4. LIMITAÇÕES E CONHECIMENTO DAS RESPONSABILIDADES
+## 4. LIMITAÇÕES E CONHECIMENTO DAS RESPONSABILIDADES
 Ao assinar o contrato de prestação de serviços, a PJ PARK entende que o Usuário está ciente das seguintes regras:
 a. O Usuário poderá utilizar os Serviços e Conteúdo apenas para fins pessoais quando disponível o serviço e de suas próprias empresas, sempre de forma não-comerciais;
 b. A entrega de informações pela PJ PARK não transfere quaisquer direitos de utilização comercial ao Usuário, e não constitui uma concessão ou renúncia de quaisquer direitos dos titulares do direito de autoral;
@@ -83,11 +83,11 @@ AS DILIGÊNCIAS JUNTO A CARTÓRIOS E ÓRGÃOS PÚBLICOS NÃO ESTÃO INCLUSAS NO
 CONTRATO DE PRESTAÇÃO DE SERVIÇOS E DEVERÃO SER REALIZADOS PELO Usuário, sendo que a PJ PARK, a seu critério, poderá disponibilizar tal serviço, o que poderá ser contratado separadamente, mediante solicitação.
 Em hipótese alguma a PJ PARK , seus diretores, administradores, empregados ou prepostos serão responsáveis por quaisquer danos indiretos punitivos quando presente obrigação do Usuário em apresentar informações que possibilitem a conclusão da prestação dos serviços.
 A PJ PARK envidará esforços razoáveis para proteger a informação enviada pelo Usuário, mas este entende que é de seu próprio risco a perda de tais informações. A PJ PARK não declara ou garante que o serviço será livre de perdas, defeitos, ataques, vírus, interferências, atividades de hackers ou outra intrusão de segurança.
-5. PRIVACIDADE
+## 5. PRIVACIDADE
 A utilização dos nossos Serviços está sujeita à Política de Privacidade, que está
 disponível junto ao site
 https://pjpark.com.br/politica-de-privacidade
-6. PROPRIEDADE INTELECTUAL E LICENÇA DE SOFTWARE
+## 6. PROPRIEDADE INTELECTUAL E LICENÇA DE SOFTWARE
 A PJ PARK concede ao usuário o direito temporário, não exclusivo, limitado e intransferível de uso da Plataforma PJ PARK, de acordo com os termos e condições contidos neste Contrato.
 Quaisquer marcas, nomes, logotipos, nome de domínio, patentes e demais sinais distintivos, bem como todo e qualquer conteúdo, desenho, arte ou layout ou qualquer conteúdo passível de propriedade intelectual publicado no sistema são de propriedade da PJ PARK e ao utilizar a plataforma, o usuário não adquire nenhum direito sobre o software ou relacionado a ele, tampouco qualquer direito de propriedade intelectual existente.
 É expressamente vedado ao usuário, o qual que também não poderá permitir que terceiros o façam:
@@ -100,22 +100,22 @@ O Usuário reconhece que a Plataforma PJ PARK, a Documentação e quaisquer modi
 pela legislação que protege direitos do autor, software e demais direitos de propriedade intelectual. O USUÁRIO DEVERÁ LIMITAR O ACESSO À PLATAFORMA ÀQUELES CUJO ACESSO SEJA NECESSÁRIO PARA A UTILIZAÇÃO DOS SERVIÇOS, INCLUSIVE PARA ASSINATURA DE TODO E QUALQUER TERMO DE RESPONSABILIDADE E DEMAIS INFORMAÇÕES INERENTES ÀS ATIVIDADES.
 Na máxima medida permitida pela legislação aplicável, a PJ PARK não oferecerá garantias e condições além daquelas identificadas expressamente neste Contrato, sejam garantias ou condições de não violação de direitos, de adequação da Plataforma PJ PARK ou dos serviços para o comércio e/ou para fins determinados.
 A PJ PARK NÃO SERÁ RESPONSÁVEL POR QUAISQUER PERDAS E DANOS INDIRETOS, DE QUALQUER NATUREZA, INCLUSIVE LUCROS CESSANTES DELES DECORRENTES, RECLAMAÇÕES DE TERCEIROS, PERDAS OU DANOS DE REGISTROS OU DADOS, CUSTO DE FORNECIMENTO DE BENS SUBSTITUTOS, DE SERVIÇOS OU TECNOLOGIA ALTERNATIVOS, CUSTO COM PARALISAÇÕES, OU QUALQUER FATO FORA DE SEU CONTROLE RAZOÁVEL, MESMO SE A PJ PARK TIVER CIÊNCIA DA POSSIBILIDADE DE TAIS DANOS OCORREREM.
-7. CANCELAMENTO DO SERVIÇO
+## 7. CANCELAMENTO DO SERVIÇO
 Quando do pagamento do serviço, a PJ PARK liberará o acesso à Plataforma para que o usuário inclua as informações pertinentes à prestação dos serviços. E caso o Usuário não pretenda mais utilizar os serviços, poderá fazê-lo, observadas as exigências em contrato.
 Caso a rescisão do contrato ocorra na vigência do primeiro aniversário do contrato, será aplicada multa de rescisão no importe de 30% sobre o valor faltante. Além disso, o Usuário deverá observar o prazo de 30 (trinta) dias de notificação para fim da responsabilidade técnica.
 Após o primeiro aniversário, o Usuário poderá rescindir o contrato a qualquer tempo, sem aplicação de multa, porém respeitado o prazo de 30 (trinta) dias de notificação prévia, sob pena de multa no importe de 2 (duas) mensalidades.
 Além da rescisão pelo não pagamento, a PJ PARK reserva-se o direito de rescindir o contrato caso não haja o CUMPRIMENTO de cláusulas pelo Usuário ou quando entender haver INDÍCIOS DE ILEGALIDADE NA ATUAÇÃO EMPRESARIAL E QUE IMPEÇAM A ATUAÇÃO DO CONTADOR DE ACORDO COM AS NORMAS GERAIS DE CONTABILIDADE.
 Caso usuário não cumpra ou a PJ PARK entenda que este não cumpriu com quaisquer disposições do contrato, esta, sem aviso prévio, reserva-se o direito de (i) rescindir o Contrato e/ou seu cadastro junto à Plataforma; e/ou (ii) rescindir a licença do software; e/ou (iii) impedir o seu acesso aos Serviços.
-8. SUPORTE
+## 8. SUPORTE
 A PJ PARK é responsável por fornecer manutenção e suporte apenas para Plataforma PJ PARK utilizada, bem como dúvidas direcionadas à prestação de serviços. Caso o Usuário pretenda um estudo de caso ou consultoria que vá além do escopo mensal de trabalho previsto em contrato, poderá contratá-lo juntamente à Plataforma PJ PARK ou perante terceiros.
 A orientação buscada perante terceiro é objeto de contrato entre usuário e terceiro e a PJ PARK não se responsabiliza por orientações não fornecidas através de sua consultoria e dessa forma o Usuário concorda em utilizar os Serviços de terceiros por sua conta e risco.
 A PJ PARK não é responsável por examinar ou avaliar o conteúdo ou exatidão de quaisquer informações ou serviços de terceiros e não será responsável por qualquer desses serviços ou informações.
 O suporte e o atendimento ao usuário em caso de dúvida, reclamações ou sugestões são realizados pela PJ PARK através do atendimento online junto ao site www.pjpark.com.br podendo o contato continuar por e-mail ou outros meios, a critério a PJ PARK .
-9. CONSIDERAÇÕES FINAIS
+## 9. CONSIDERAÇÕES FINAIS
 O serviço será prestado de acordo com as características e limitações técnicas apresentadas e o usuário receberá o acesso à plataforma no estado em que se encontra. A licença de uso da Plataforma é um serviço de responsabilidade da PJ PARK LTDA. no que se refere às funcionalidades do serviço.
 O presente Termo de Uso também poderá, a qualquer momento, ser alterado mediante comunicação pela PJ PARK , com antecedência mínima de 30 (trinta) dias.
 Ao utilizar a Plataforma PJ PARK e firma o contrato de prestação de serviços, os usuários estarão de acordo com todas as disposições constantes naquele contrato, sendo que os casos omissos e as dúvidas porventura suscitadas serão solucionados pela PJ PARK .
-10. DEFINIÇÕES
+## 10. DEFINIÇÕES
 Para efeito único e exclusivo do presente TERMO DE USO, deverão ser consideradas as seguintes definições:
 10.1. PJ PARK:
 - PJ PARK LTDA . empresa desenvolvera do sistema, prestadora de serviços administrativos e não privativos de contador e detentora de todo e qualquer direito a este relacionado (CNPJ 36.489.120/0001-41);
