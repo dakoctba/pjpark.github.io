@@ -118,7 +118,7 @@ Ao utilizar a Plataforma PJ PARK e firma o contrato de prestação de serviços,
 ## 10. DEFINIÇÕES
 Para efeito único e exclusivo do presente TERMO DE USO, deverão ser consideradas as seguintes definições:
 10.1. PJ PARK:
-- PJ PARK LTDA . empresa desenvolvera do sistema, prestadora de serviços administrativos e não privativos de contador e detentora de todo e qualquer direito a este relacionado (CNPJ 36.489.120/0001-41);
+PJ PARK LTDA . empresa desenvolvera do sistema, prestadora de serviços administrativos e não privativos de contador e detentora de todo e qualquer direito a este relacionado (CNPJ 36.489.120/0001-41);
 10.2. Plataforma PJ PARK – Sistema fornecido pela PJ PARK Ltda que facilita a transmissão de declarações e é o local virtual onde o usuário insere todas as informações que possibilitam o acesso ao sistema e, consequentemente, a utilização dos serviços;
 10.3. Usuário : Pessoa física ou jurídica que aderiu aos termos e aceitou as condições do presente TERMO DE USO para utilização da Plataforma PJ PARK;
 10.4. SITE: www.pjpark.com.br
