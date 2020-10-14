@@ -3,7 +3,7 @@ layout: page
 title: Termos de uso
 permalink: /termos-de-uso/
 ---
-TERMOS E CONDIÇÕES DE USO DOS SERVIÇOS DA PJ PARK
+# TERMOS E CONDIÇÕES DE USO DOS SERVIÇOS DA PJ PARK
 
 Bem-vindo(a) à PJ PARK!
 
@@ -123,5 +123,3 @@ Para efeito único e exclusivo do presente TERMO DE USO, deverão ser considerad
 10.3. Usuário : Pessoa física ou jurídica que aderiu aos termos e aceitou as condições do presente TERMO DE USO para utilização da Plataforma PJ PARK;
 10.4. SITE: www.pjpark.com.br
 Atualização: 14 de outubro de 2020.
-
-# Termos de uso
