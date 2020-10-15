@@ -14,10 +14,12 @@ layout: default
 
   <br>
 
-  <p><small>Publicado em {{ page.date | date: "%-d/%m/%Y" }}{% if page.author %} por {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</small></p>
-
-  <div class="my-5">
-    <a class="btn btn-outline-info" href="javascript:history.back()">❮ Voltar</a>
-  </div>
+  {% if page.date %}
+    <p><small>Publicado em {{ page.date | date: "%-d/%m/%Y" }}{% if page.author %} por {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</small></p>
+    
+    <div class="my-5">
+      <a class="btn btn-outline-info" href="javascript:history.back()">❮ Voltar</a>
+    </div>
+  {% endif %}
 
 </div>
